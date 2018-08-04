@@ -1,1 +1,3 @@
 Un fichier originale très imporant.
+
+Un fichier uploader sur GitHub est très important vue que sa te fait une sauvegarde au cas où si tu perd ton fichier.
