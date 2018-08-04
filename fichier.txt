@@ -1,13 +1,4 @@
-Premiere modification sur vim.
-Deuxieme modification sur vim M.
-Troisieme modification sur github.
-
-Quatrieme modication sur une nouvelle branche.
-
-Une cinquieme modification dans mon-test Goorgoorloo.
-
-Une sixieme modification dans mon-test Abacadabra.
-
+----------------------------------------------------------------------------
 Une mise a jour necessite une connexion internet cest important parfois si nous voulons vraiment avoir les nouvelles modifications apporte sur une application donnee. MONSTER.....?????????
 
 
